@@ -5,11 +5,11 @@ I am currently studying game development in Jyväskylä Finland.
 
 ## Project 1 - Wave Slasher
 A 3D wave based hack n slash game
-- Combos
-  docs/assets/Slash1.gif
-- Blocking
+- Different combos by following a light attack with a heavy attack
+  ![demo](docs/assets/Slash1.gif)
+- The player and enemies can block attacks
   gif
-- Guard Breaking
+- Specific attacks will guard break the enemies and the player alike
   gif
 - Itch.io page link
 - GitHub link
