@@ -8,6 +8,7 @@ A 3D wave based hack n slash game
 -Unity
 -C#
 -2026
+-Solo Project
 ###
 - Different combos by following a light attack with a heavy attack
   ![](docs/assets/Slash1.gif)
