@@ -6,7 +6,7 @@ I am currently studying game development in Jyväskylä Finland.
 ## Project 1 - Wave Slasher
 A 3D wave based hack n slash game
 - Combos
-  gif
+  docs/assets/Slash1.gif
 - Blocking
   gif
 - Guard Breaking
