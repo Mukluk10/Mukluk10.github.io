@@ -5,12 +5,18 @@ I am currently studying game development in Jyväskylä Finland.
 
 ## Project 1 - Wave Slasher
 A 3D wave based hack n slash game
+-Unity
+-C#
+-2026
+###
 - Different combos by following a light attack with a heavy attack
-  ![demo](docs/assets/Slash1.gif)
+  ![](docs/assets/Slash1.gif)
 - The player and enemies can block attacks
-  gif
+  ![](docs/assets/Slash3.gif)
 - Specific attacks will guard break the enemies and the player alike
-  gif
+  ![](docs/assets/Slash4.gif)
+  ![](docs/assets/Slash2.gif)
+  ### Links
 - Itch.io page link
 - GitHub link
 
