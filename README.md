@@ -21,7 +21,7 @@ I am currently studying game development in Jyväskylä Finland.
   ![](docs/assets/Slash4.gif)
   ![](docs/assets/Slash2.gif)
   ## Links
-- Itch.io page link
+- [Check out the Itch.io page.](https://mukluk10.itch.io/wave-slasher)
 - GitHub link
 
 
