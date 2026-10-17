@@ -1,5 +1,5 @@
 # About me
-Hi! I'm Pyry Urala a Techical Designer focusing on designing and implementing gameplay mechanics for games.
+Hi! I'm Pyry Urala a Techical Designer focusing on designing and implementing gameplay mechanics.
 I am currently studying game development in Jyväskylä Finland.
 # Projects
 
@@ -11,13 +11,13 @@ I am currently studying game development in Jyväskylä Finland.
 - Solo Project
 ### ______________________________
 ## Gameplay Mechanics
-- Different combos by following a light attack with a heavy attack
+- Execute different combos by following up a light attack with a heavy attack
   ![](docs/assets/Slash1.gif)
 ### ______________________________
 - The player and enemies can block attacks
   ![](docs/assets/Slash3.gif)
 ### ______________________________
-- Specific attacks will guard break the enemies and the player alike
+- Specific attacks will guard break blocking enemies and the player alike
   ![](docs/assets/Slash4.gif)
   ![](docs/assets/Slash2.gif)
   ## Links
