@@ -9,10 +9,10 @@ I am currently studying game development in Jyväskylä Finland.
 - C#
 - 2026
 - Solo Project
-###
+# Gameplay Mechanics
 - Different combos by following a light attack with a heavy attack
   ![](docs/assets/Slash1.gif)
-#
+# ___________________________________
 - The player and enemies can block attacks
   ![](docs/assets/Slash3.gif)
 - Specific attacks will guard break the enemies and the player alike
